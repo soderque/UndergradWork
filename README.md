@@ -1,12 +1,12 @@
 # UndergradWork
 Various Examples of Projects from Undergraduate Work in Applied Mathematics, Computer Science, and Statistical Methods classes. As you navigate down in each list, the complexity of the assignments tends to increase.
 
-# Directory
-## ST
+## Directory
+### ST
 Projects from ST411, Methods of Data Analysis. Coding written in R/RStudio.
-## MTH
+### MTH
 Projects from MTH420, Models and Methods of Applied Mathematics. Coding written in Python.
-## CS
+### CS
 Projects from CS161, written in C++.
 The "Battleship" folder was the last assignment to create classes which could be used to make a program which plays a classic game of Battleship. 
 The ship class represents a ship which has a name, a length, a number representing damage, and methods to track damage and each data member. 
