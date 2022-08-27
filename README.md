@@ -3,7 +3,7 @@ Various Examples of Projects from Undergraduate Work in Applied Mathematics, Com
 
 ## Directory
 ### ST
-Projects from ST411, Methods of Data Analysis. Coding written in R/RStudio.
+Projects from ST411, Methods of Data Analysis. Coding written in R/RStudio. Published to .pdf using R Markdown but code can still be viewed in published files.
 ### MTH
 Projects from MTH420, Models and Methods of Applied Mathematics. Coding written in Python.
 ### CS
