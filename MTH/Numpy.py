@@ -41,8 +41,8 @@ def prob6(A):
     rowsum = B.sum(axis=1)
     return B/rowsum.reshape(len(B),1)
 
-def prob7():
-    """Given the array stored in grid.npy, return the greatest product of four
-    adjacent numbers in the same direction (up, down, left, right, or
-    diagonally) in the grid.
-    """
+#def prob7(): (Instructor told us to only do the first six problems)
+#    """Given the array stored in grid.npy, return the greatest product of four
+#    adjacent numbers in the same direction (up, down, left, right, or
+#    diagonally) in the grid.
+#    """
