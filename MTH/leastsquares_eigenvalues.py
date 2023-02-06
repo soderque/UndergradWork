@@ -19,7 +19,7 @@ def least_squares(A, b):
     qTb = np.matmul(qT, b)
     return la.solve(R, qTb)
 
-    raise NotImplementedError("Problem 1 Incomplete")
+    #raise NotImplementedError("Problem 1 Incomplete")
 
 # Problem 2
 def line_fit():
