@@ -102,17 +102,17 @@ def prob4():
     return 0
 
 
-# Problem 5
-def prob5():
-    """Visualize the data in FARS.npy. Use np.load() to load the data, then
-    create a single figure with two subplots:
-        1. A scatter plot of longitudes against latitudes. Because of the
-            large number of data points, use black pixel markers (use "k,"
-            as the third argument to plt.plot()). Label both axes.
-        2. A histogram of the hours of the day, with one bin per hour.
-            Label and set the limits of the x-axis.
-    """
-    raise NotImplementedError("Problem 5 Incomplete")
+# Problem 5 (Instructor told us to skip this problem)
+#def prob5():
+    #"""Visualize the data in FARS.npy. Use np.load() to load the data, then
+    #create a single figure with two subplots:
+    #    1. A scatter plot of longitudes against latitudes. Because of the
+    #        large number of data points, use black pixel markers (use "k,"
+    #        as the third argument to plt.plot()). Label both axes.
+    #    2. A histogram of the hours of the day, with one bin per hour.
+    #        Label and set the limits of the x-axis.
+    # """
+    # raise NotImplementedError("Problem 5 Incomplete")
 
 
 # Problem 6
